@@ -1,5 +1,5 @@
 # we-rate-dogs-wrangle-analyze
-Udacity Project
+
 ## Wrangle and Analyze Data
 
 The purpose of this project is to wrangle and analyze a dataset gathered from the tweet archive of Twitter user @dog_rates, a.k.a WeRateDogs. The wrangling, cleaning, and analysis is contained in the Jupyter Notebook `wrangle_act.ipynb`. The file `act_report.pdf` contains a write up of the findings. 
